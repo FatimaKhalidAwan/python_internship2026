@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Eman Fatima",
+        "roll_number": "1",
+        "marks": 95.0,
+        "grade": "A+"
+    },
+    {
+        "name": "Talha Khalid",
+        "roll_number": "2",
+        "marks": 100.0,
+        "grade": "A+"
+    },
+    {
+        "name": "Faizan Khalid",
+        "roll_number": "3",
+        "marks": 55.0,
+        "grade": "D"
+    },
+    {
+        "name": "Awais Khurram",
+        "roll_number": "4",
+        "marks": 67.0,
+        "grade": "C"
+    },
+    {
+        "name": "Khadija Ayesha",
+        "roll_number": "5",
+        "marks": 89.0,
+        "grade": "A"
+    },
+    {
+        "name": "Ali Raza",
+        "roll_number": "6",
+        "marks": 32.0,
+        "grade": "F"
+    },
+    {
+        "name": "Eman Fatima",
+        "roll_number": "7",
+        "marks": 79.0,
+        "grade": "B"
+    },
+    {
+        "name": "Mohsin Mansoor",
+        "roll_number": "8",
+        "marks": 90.0,
+        "grade": "A+"
+    }
+]
