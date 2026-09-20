@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Apple",
+        "amount": 500.0,
+        "category": "Fruits",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "Mango",
+        "amount": 450.0,
+        "category": "Fruits",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "Banana",
+        "amount": 250.0,
+        "category": "Fruits",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "Grapes",
+        "amount": 520.0,
+        "category": "Fruits",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "Tomato",
+        "amount": 200.0,
+        "category": "Vegetables",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "Potato",
+        "amount": 80.0,
+        "category": "Vegetables",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "Ginger",
+        "amount": 40.0,
+        "category": "Vegetables",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "Garlic",
+        "amount": 90.0,
+        "category": "Vegetables",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "LipStick",
+        "amount": 220.0,
+        "category": "MakeUp",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "NailPaint",
+        "amount": 190.0,
+        "category": "MakeUp",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "Lip Gloss",
+        "amount": 500.0,
+        "category": "MakeUp",
+        "date": "2026-09-20"
+    },
+    {
+        "name": "Apples",
+        "amount": 260.0,
+        "category": "Fruits",
+        "date": "2026-09-20"
+    }
+]
