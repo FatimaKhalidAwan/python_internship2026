@@ -6,7 +6,7 @@ A hands-on collection of Python tasks and practical projects developed during my
 
 **Organization:** Youth Media
 **Duration:** 1 Month
-**Focus:** Python Programming, Problem Solving & Practical Development
+**Focus:** Python Programming, Problem Solving, Object-Oriented Programming & Data Analysis
 
 ## Weekly Roadmap
 
@@ -25,18 +25,24 @@ A hands-on collection of Python tasks and practical projects developed during my
 * File Handling
 * Reading & Writing Files
 * Classes & Objects
-* Functions & Methods
+* Methods
 * Basic Object-Oriented Programming (OOP)
 * Lists & Dictionaries
 * Basic Data Management
 
-### Week 3 – Practical Python & Data Handling
+### Week 3 – Practical Python & Data Analysis
 
-* Working with APIs
-* JSON & Data Handling
-* NumPy
+* Object-Oriented Programming
+* Classes & Objects
+* Lists & Dictionaries
+* File Handling
 * Pandas
+* DataFrames & Series
+* CSV Data
+* Data Filtering
 * Basic Data Analysis
+* Python Turtle Graphics
+* Creative Programming
 
 ### Week 4 – Projects & Application
 
@@ -182,6 +188,160 @@ The project uses a `BankAccount` class to represent and manage bank accounts and
 * Login/PIN System
 * Multiple Account Types
 
+---
+
+## Week 3 Tasks
+
+### Task 5 – Library Management System
+
+A console-based Library Management System developed using Python and Object-Oriented Programming (OOP).
+
+The project uses a `Book` class to represent books and manage their availability, issuing, returning, searching, and deletion.
+
+**Features:**
+
+* Add Book
+* View All Books
+* Search Book
+* Issue Book
+* Return Book
+* Delete Book
+* Exit the system
+* Display book availability status
+* Manage multiple books
+
+**Book Information:**
+
+* Book Title
+* Author
+* Book ID
+* Availability Status
+
+**Concepts Used:**
+
+* Classes
+* Objects
+* `__init__`
+* `self`
+* Methods
+* Lists
+* Dictionaries
+* Loops
+* Conditional Statements
+* Functions
+* Basic OOP
+
+**Intermediate Features:**
+
+* Search by Book ID
+* Search by Book Title
+* Prevent issuing an already issued book
+* Prevent returning a book that is already available
+
+**Advanced Features:**
+
+* File Handling
+* Saving Book Records
+* Loading Book Records when the program starts
+* Student/Member Information
+* Tracking the member who issued a book
+* Issue Date
+* Return Date
+
+### Task 6 – Student Performance Data Analysis
+
+A Student Performance Data Analysis project developed using **Python and Pandas**.
+
+The project focuses on working with structured student data using Pandas DataFrames and performing basic statistical analysis.
+
+**Features:**
+
+* Create or load student data
+* Store data in a Pandas DataFrame
+* Display all student records
+* Calculate average marks
+* Find highest marks
+* Find lowest marks
+* Count passing students
+* Count failing students
+* Find the student with the highest marks
+* Filter students based on marks
+
+**Student Information:**
+
+* Student Name
+* Roll Number
+* Marks
+
+Additional information may include:
+
+* Subject
+* Grade
+* Attendance
+
+**Concepts Used:**
+
+* Pandas
+* DataFrames
+* Series
+* Lists
+* Dictionaries
+* CSV Files
+* Data Filtering
+* Basic Statistics
+* Functions
+* Conditional Statements
+
+**Intermediate Features:**
+
+* Grade Calculation
+* Search Student by Name
+* Find Top 3 Students
+* Filter students above a specific percentage
+* Calculate average marks by subject
+
+**Advanced Features:**
+
+* Read data from a CSV file using Pandas
+* Save analyzed data to a new CSV file
+* Attendance Analysis
+* Subject-wise Performance Analysis
+* Basic Data Visualization using Matplotlib
+
+### Fun Task – Animated Heart with Python Turtle ❤️
+
+An optional creative activity using Python's **Turtle Graphics** to create a colorful animated heart pattern.
+
+This activity was designed to encourage creativity and provide hands-on experience with Python libraries, mathematical patterns, loops, and graphics.
+
+**Features:**
+
+* Creates a Turtle graphics window
+* Draws a heart-shaped pattern
+* Uses multiple colors
+* Creates an animated visual effect
+* Uses loops to repeat the drawing process
+
+**Libraries Used:**
+
+* `turtle` – for drawing graphics
+* `math` – for mathematical calculations
+* `random` – for randomly selecting colors
+
+**Things Explored:**
+
+* Background colors
+* Heart colors
+* Number of repetitions
+* Turtle speed
+* Line thickness
+* Heart size
+* Patterns
+* Creative designs
+
+**Note:**
+This was a fun and optional activity. Submission was not required.
+
 ## Skills Practiced
 
 Throughout the internship, the projects in this repository provide practical experience with:
@@ -195,7 +355,17 @@ Throughout the internship, the projects in this repository provide practical exp
 * Object-Oriented Programming
 * Classes & Objects
 * Data Management
-* Console-Based Applications
+* Pandas
+* DataFrames & Series
+* CSV Data
+* Basic Data Analysis
+* Data Filtering
+* Turtle Graphics
 * Git & GitHub
+* Console-Based Applications
 
-More tasks and projects will be added as the internship progresses..
+## Repository Progress
+
+This repository will continue to be updated as new internship tasks and projects are completed.
+
+More tasks and projects will be added as the internship progresses.
